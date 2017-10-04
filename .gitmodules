@@ -1,0 +1,3 @@
+[submodule "ext/myModule"]
+	path = ext/myModule
+	url = https://github.com/KlausKleiner/myModule.git
